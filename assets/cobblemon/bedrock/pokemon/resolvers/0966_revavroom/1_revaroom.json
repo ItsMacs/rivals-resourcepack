@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:revavroom",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["summercrate"],
+      "poser": "cobblemon:revavroom",
+      "model": "cobblemon:summer_revavroom.geo",
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/summer_revavroom.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0966_revavroom/summer_revavroom_emissive.png",
+          "translucent": false
+        }
+      ]
+    },
+    {
+      "aspects": ["summercrate", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/summer_revavroom_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0500_emboar/mega_emboar_emmisive.png",
+          "translucent": false
+        }
+      ]
+    }
+  ]
+}
+
