@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/other/gym_badges/NewGymBadges/FightingType/FireBadgeCustom1"
+    "layer0": "item/other/gym_badges/NewGymBadges/FireType/FireBadgeCustom1"
   }
 }
