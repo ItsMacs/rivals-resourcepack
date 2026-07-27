@@ -9,7 +9,7 @@
       "texture": "cobblemon:textures/pokemon/0121_starmie/starmie_mega.png",
       "layers": [
         {
-          "name": "emmisive",
+          "name": "emissive",
           "texture": "cobblemon:textures/pokemon/0121_starmie/starmie_mega_emissive.png"
         }
       ]
