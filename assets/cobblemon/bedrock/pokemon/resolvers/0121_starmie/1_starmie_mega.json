@@ -4,23 +4,23 @@
   "variations": [
     {
       "aspects": ["mega"],
-      "model": "cobblemon:starmie_mega.geo",
-      "poser": "cobblemon:starmie_mega",
-      "texture": "cobblemon:textures/pokemon/0121_starmie/starmie_mega.png",
+      "model": "cobblemon:mega_starmie.geo",
+      "poser": "cobblemon:starmie",
+      "texture": "cobblemon:textures/pokemon/0121_starmie/mega_starmie.png",
       "layers": [
         {
           "name": "emissive",
-          "texture": "cobblemon:textures/pokemon/0121_starmie/starmie_mega_emissive.png"
+          "texture": "cobblemon:textures/pokemon/0121_starmie/mega_starmie_emissive.png"
         }
       ]
     },
     {
       "aspects": ["mega", "shiny"],
-      "texture": "cobblemon:textures/pokemon/0121_starmie/starmie_mega_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0121_starmie/mega_starmie_shiny.png",
       "layers": [
         {
           "name": "emissive",
-          "texture": "cobblemon:textures/pokemon/0121_starmie/starmie_mega_shiny_emissive.png"
+          "texture": "cobblemon:textures/pokemon/0121_starmie/mega_starmie_shiny_emissive.png"
         }
       ]
     }
