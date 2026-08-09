@@ -583,6 +583,13 @@
         },
         {
             "type": "bitmap",
+            "file": "cobblemonrivalsgui:gui/gym_badges/champion_s5.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
             "file": "cobblemonrivalsgui:gui/emojis/angry_face_with_horns.png",
             "ascent": 7,
             "height": 7,
